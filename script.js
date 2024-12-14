@@ -34,3 +34,8 @@ async function fetchimages() {
 }
 
 fetchimages();
+
+//Function For Refreshing the Page...
+function refresh() {
+    location.reload();
+}
